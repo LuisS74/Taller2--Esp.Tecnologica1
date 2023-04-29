@@ -11,8 +11,8 @@ let crearPersonaje = function(nombre){
         speed: Math.floor(Math.random() * 10) + 1
    } 
 
-   asignarClase(personaje)
-   asignarAtaques(personaje)
+   asignarClase(personaje);
+   asignarAtaques(personaje);
 
    return personaje;
 }

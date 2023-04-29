@@ -2,8 +2,8 @@ const crearPersonaje = require("./Personaje.js")
 const inicCombat = require("./combate.js")
 
 let batalla = function () {
-    const personaje1 = crearPersonaje("Juan")
-    const personaje2 = crearPersonaje("Pedro")
+    const personaje1 = crearPersonaje("Juan");
+    const personaje2 = crearPersonaje("Pedro");
 
     let atacante, defensor;
 
