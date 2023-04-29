@@ -1,0 +1,152 @@
+—---------------------------------------------------------------
+### INICIO ###
+
+Pedro | MAGICIAN | 188 de vida vs Juan | MAGICIAN | 188 de vida
+
+Turno 1
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 95
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: 166
+
+Turno 2
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 87
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: 144
+
+Turno 3
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 79
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: 122
+
+Turno 4
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 71
+
+¡Juan ataca con Poison Cloud!
+¡Pero falló!
+Causa 0 de daño
+Pedro recibe 0 de daño
+La vida restante de Pedro queda en: 122
+
+Turno 5
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 63
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: 100
+
+Turno 6
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 55
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: 78
+
+Turno 7
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 47
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: 56
+
+Turno 8
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 39
+
+¡Juan ataca con Poison Cloud!
+¡Da en el blanco!
+Causa 15 de daño
+Pedro recibe 15 de daño
+La vida restante de Pedro queda en: 41
+
+Turno 9
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 31
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: 19
+
+Turno 10
+
+¡Pedro ataca con Mind Blast!
+¡Da en el blanco!
+Causa 8 de daño
+Juan recibe 8 de daño
+La vida restante de Juan queda en: 23
+
+¡Juan ataca con Hurricane!
+¡Da en el blanco!
+Causa 22 de daño
+Pedro recibe 22 de daño
+La vida restante de Pedro queda en: -3
+
+Pedro no puede continuar.
+
+### Resumen ###
+
+Juan gana la batalla!
+Pedro falló 0 veces su ataque
+Juan falló 1 veces su ataque
